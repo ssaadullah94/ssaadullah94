@@ -1,5 +1,10 @@
 # 💫 About Me:
-Building scalable mobile apps using SwiftUI, Kotlin Multiplatform (KMM), and modern frontend frameworks, including IoT-based smart appliance applications.<br>Mobile app projects, cross-platform solutions, AI-powered features, and innovative startup ideas.<br>Advanced system design, AI integrations in mobile apps, and scaling backend architectures.<br>AI-assisted development workflows, cloud architecture, and advanced product engineering practices.<br>iOS development (Swift, SwiftUI, RxSwift), Kotlin Multiplatform, mobile architecture, freelancing, and building production-ready apps.<br>I love turning complex ideas into simple, user-friendly mobile experiences, and I’m also a passionate cricket player 🏏<br>
+🔭 Building scalable mobile apps using SwiftUI, Kotlin Multiplatform (KMM), and modern frontend frameworks, including IoT-based smart appliance applications.<br>
+👯 Mobile app projects, cross-platform solutions, AI-powered features, and innovative startup ideas.<br>
+🤝 Advanced system design, AI integrations in mobile apps, and scaling backend architectures.<br>
+🌱 AI-assisted development workflows, cloud architecture, and advanced product engineering practices.<br>
+💬 iOS development (Swift, SwiftUI, RxSwift), Kotlin Multiplatform, mobile architecture, freelancing, and building production-ready apps.<br>
+⚡ I love turning complex ideas into simple, user-friendly mobile experiences, and I’m also a passionate cricket player 🏏<br>
 
 
 ## 🌐 Socials:
